@@ -1,0 +1,372 @@
+Shipping_No,Type_of_Transportation,Origin,Country_Of_Destination,Equipment,Sum_full_pallets,Sum_shipperboxes,Forwarder,Airline_Name
+0000179361,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,8,DHL,Air Canada AC 014 
+7000038869,Airfreight,DK,Canada,Pallet Shipper/Cool box,2,77,DHL,Air Canada AC 014 
+0000179242,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,11,K+N,KLM Cargo KL 074 
+0000180318,Airfreight,DK,Canada,Thermal Blankets,4,119,DHL,KLM Cargo KL 074 
+0000180413,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,2,DHL,KLM Cargo KL 074 
+0000180415,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,17,DHL,KLM Cargo KL 074 
+0000180607,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,3,DHL,KLM Cargo KL 074 
+0000180668,Airfreight,DK,Canada,Pallet Shipper/Cool box,,,DHL,KLM Cargo KL 074 
+0000180833,Airfreight,DK,Canada,Thermal Blankets,2,47,DHL,KLM Cargo KL 074 
+0000181132,Airfreight,DK,Canada,Thermal Blankets,9,270,DHL,KLM Cargo KL 074 
+0000181257,Airfreight,DK,Canada,Thermal Blankets,6,162,DHL,KLM Cargo KL 074 
+0000181370,Airfreight,DK,Canada,Thermal Blankets,8,228,DHL,KLM Cargo KL 074 
+0000181462,Airfreight,DK,Canada,Thermal Blankets,7,209,DHL,KLM Cargo KL 074 
+0000181636,Airfreight,DK,Canada,Thermal Blankets,26,827,DHL,KLM Cargo KL 074 
+0000181677,Airfreight,DK,Canada,Thermal Blankets,7,220,DHL,KLM Cargo KL 074 
+0000181779,Airfreight,DK,Canada,Thermal Blankets,7,203,DHL,KLM Cargo KL 074 
+0000181917,Airfreight,DK,Canada,Thermal Blankets,5,136,DHL,KLM Cargo KL 074 
+0000181920,Airfreight,DK,Canada,Thermal Blankets,10,316,DHL,KLM Cargo KL 074 
+0000182032,Airfreight,DK,Canada,Thermal Blankets,4,110,DHL,KLM Cargo KL 074 
+0000182086,Airfreight,DK,Canada,Pallet Shipper/Cool box,,,DHL,KLM Cargo KL 074 
+0000182161,Airfreight,DK,Canada,Thermal Blankets,7,203,DHL,KLM Cargo KL 074 
+7000024533,Airfreight,DK,Japan,Thermal Blankets,2,100,DHL,KLM Cargo KL 074 
+7000024731,Airfreight,DK,Japan,Thermal Blankets,1,10,DHL,KLM Cargo KL 074 
+7000039651,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,18,DHL,KLM Cargo KL 074 
+7000040303,Airfreight,DK,Canada,Thermal Blankets,6,227,DHL,KLM Cargo KL 074 
+7000040376,Airfreight,DK,Canada,Pallet Shipper/Cool box,,,DHL,KLM Cargo KL 074 
+7000040612,Airfreight,DK,Canada,Pallet Shipper/Cool box,,,DHL,KLM Cargo KL 074 
+7000040641,Airfreight,DK,Canada,Pallet Shipper/Cool box,,,DHL,KLM Cargo KL 074 
+7000040848,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,25,DHL,KLM Cargo KL 074 
+7000041015,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,14,DHL,KLM Cargo KL 074 
+7000041368,Airfreight,DK,Canada,Thermal Blankets,1,23,DHL,KLM Cargo KL 074 
+7000041710,Airfreight,DK,Canada,Pallet Shipper/Cool Box,2,54,DHL,KLM Cargo KL 074 
+7000041995,Airfreight,DK,Canada,Thermal Blankets,1,40,DHL,KLM Cargo KL 074 
+7000042114,Airfreight,DK,Canada,Thermal Blankets,,,DHL,KLM Cargo KL 074 
+7000042258,Airfreight,DK,Canada,Thermal Blankets,2,47,DHL,KLM Cargo KL 074 
+7000042322,Airfreight,DK,Canada,Thermal Blankets,2,71,DHL,KLM Cargo KL 074 
+7000042671,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,22,DHL,KLM Cargo KL 074 
+7000042682,Airfreight,DK,Canada,Pallet Shipper/Cool box,2,75,DHL,KLM Cargo KL 074 
+0000166026,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166101,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166189,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166192,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166443,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166530,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166531,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166589,Airfreight,DK,Japan,Naked Pallet/Thermal Blankets,1,5,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166644,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166645,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166677,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166698,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166790,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166791,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166793,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000166965,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000167103,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000167162,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000167210,Airfreight,DK,Japan,Naked Pallet/Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000167211,Airfreight,DK,Japan,Naked Pallet/Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000167236,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000167802,Airfreight,DK,Japan,Naked Pallet/Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000167804,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000167974,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000168000,Airfreight,DK,Japan,Naked Pallet/Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000168001,Airfreight,DK,Japan,Naked Pallet/Thermal Blankets,1,31,DHL,SAS-Scandinavian Airlines System SK 117 
+0000168109,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000168283,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000168291,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000168343,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000168345,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000168421,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000168687,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000168715,Airfreight,DK,Japan,Naked Pallet/Thermal Blankets,1,26,DHL,SAS-Scandinavian Airlines System SK 117 
+0000168937,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169088,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169320,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169390,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169434,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169623,Airfreight,DK,Japan,Thermal Blankets,19,578,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169660,Airfreight,DK,Japan,Thermal Blankets,13,392,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169774,Airfreight,DK,Japan,Thermal Blankets,13,395,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169775,Airfreight,DK,Japan,Thermal Blankets,13,396,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169776,Airfreight,DK,Japan,Thermal Blankets,13,390,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169796,Airfreight,DK,Japan,Thermal Blankets,13,398,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169812,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169813,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169837,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169974,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000170075,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000170141,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000170221,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000170225,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000170306,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000170308,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000170457,Airfreight,DK,Japan,Thermal Blankets,12,377,DHL,SAS-Scandinavian Airlines System SK 117 
+0000173143,Airfreight,DK,Japan,Thermal Blankets,13,395,DHL,SAS-Scandinavian Airlines System SK 117 
+0000173145,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000173147,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000173149,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000173150,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000173262,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000173455,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000173512,Airfreight,DK,Japan,Thermal Blankets,13,397,DHL,SAS-Scandinavian Airlines System SK 117 
+0000173739,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000173809,Airfreight,DK,Japan,Thermal Blankets,13,391,DHL,SAS-Scandinavian Airlines System SK 117 
+0000173811,Airfreight,DK,Japan,Thermal Blankets,13,399,DHL,SAS-Scandinavian Airlines System SK 117 
+0000173812,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000173813,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000174808,Airfreight,DK,Japan,Thermal Blankets,12,370,DHL,SAS-Scandinavian Airlines System SK 117 
+0000174885,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000174889,Airfreight,DK,Japan,Thermal Blankets,13,394,DHL,SAS-Scandinavian Airlines System SK 117 
+0000174928,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000175137,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000175138,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000175200,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000175204,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000175205,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000175710,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000175711,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000175907,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000175937,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000175938,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000175957,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176061,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176062,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176064,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176291,Airfreight,DK,Japan,Thermal Blankets,13,389,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176295,Airfreight,DK,Japan,Thermal Blankets,13,391,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176296,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176307,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176473,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176504,Airfreight,DK,Japan,Thermal Blankets,12,380,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176563,Airfreight,DK,Japan,Thermal Blankets,13,394,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176564,Airfreight,DK,Japan,Thermal Blankets,10,312,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176677,Airfreight,DK,Japan,Thermal Blankets,13,407,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176679,Airfreight,DK,Japan,Thermal Blankets,13,392,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176680,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176681,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176783,Airfreight,DK,Japan,Thermal Blankets,13,396,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176825,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176826,Airfreight,DK,Japan,Thermal Blankets,12,370,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176855,Airfreight,DK,Japan,Thermal Blankets,9,288,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176856,Airfreight,DK,Japan,Thermal Blankets,12,370,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176989,Airfreight,DK,Japan,Thermal Blankets,13,395,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176992,Airfreight,DK,Japan,Thermal Blankets,13,398,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176994,Airfreight,DK,Japan,Thermal Blankets,13,394,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176995,Airfreight,DK,Japan,Thermal Blankets,13,394,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176996,Airfreight,DK,Japan,Thermal Blankets,13,397,DHL,SAS-Scandinavian Airlines System SK 117 
+0000176997,Airfreight,DK,Japan,Thermal Blankets,13,388,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177098,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177504,Airfreight,DK,Japan,Thermal Blankets,11,332,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177529,Airfreight,DK,Japan,Thermal Blankets,11,336,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177569,Airfreight,DK,Japan,Thermal Blankets,13,398,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177630,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177637,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177638,Airfreight,DK,Japan,Thermal Blankets,10,309,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177639,Airfreight,DK,Japan,Thermal Blankets,11,352,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177711,Airfreight,DK,Japan,Thermal Blankets,8,235,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177723,Airfreight,DK,Japan,Thermal Blankets,12,355,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177740,Airfreight,DK,Japan,Thermal Blankets,12,381,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177806,Airfreight,DK,Japan,Thermal Blankets,12,360,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177838,Airfreight,DK,Japan,Thermal Blankets,13,388,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177949,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000177951,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000178284,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000178286,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000178287,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000178500,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000178502,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000178503,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000178528,Airfreight,DK,Japan,Thermal Blankets,11,344,DHL,SAS-Scandinavian Airlines System SK 117 
+0000178813,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000179182,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000179524,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000179631,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000179633,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000179910,Airfreight,DK,Japan,Thermal Blankets,12,368,DHL,SAS-Scandinavian Airlines System SK 117 
+0000179982,Airfreight,DK,Japan,Thermal Blankets,11,341,DHL,SAS-Scandinavian Airlines System SK 117 
+0000180054,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000180206,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000180207,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000180208,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000180209,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000180720,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000180958,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000181311,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000181378,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000181464,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000181471,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000181640,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000181641,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000182082,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000182188,Airfreight,DK,Japan,Thermal Blankets,23,718,DHL,SAS-Scandinavian Airlines System SK 117 
+7000021703,Airfreight,DK,Japan,Thermal Blankets,1,20,DHL,SAS-Scandinavian Airlines System SK 117 
+7000022043,Airfreight,DK,Japan,Thermal Blankets,1,18,DHL,SAS-Scandinavian Airlines System SK 117 
+7000022066,Airfreight,DK,Japan,Thermal Blankets,1,18,DHL,SAS-Scandinavian Airlines System SK 117 
+7000022298,Airfreight,DK,Japan,Naked Pallet/Thermal Blankets,1,18,DHL,SAS-Scandinavian Airlines System SK 117 
+7000023101,Airfreight,DK,Japan,Pallet Shipper/Cool Box,2,63,DHL,SAS-Scandinavian Airlines System SK 117 
+7000023172,Airfreight,DK,Japan,Thermal Blankets,1,18,DHL,SAS-Scandinavian Airlines System SK 117 
+7000023383,Airfreight,DK,Japan,Thermal Blankets,12,373,DHL,SAS-Scandinavian Airlines System SK 117 
+7000023408,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,8,DHL,SAS-Scandinavian Airlines System SK 117 
+7000023451,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,50,DHL,SAS-Scandinavian Airlines System SK 117 
+7000023527,Airfreight,DK,Japan,Thermal Blankets,14,528,DHL,SAS-Scandinavian Airlines System SK 117 
+7000023531,Airfreight,DK,Japan,Thermal Blankets,26,1004,DHL,SAS-Scandinavian Airlines System SK 117 
+7000023642,Airfreight,DK,Japan,Thermal Blankets,26,1009,DHL,SAS-Scandinavian Airlines System SK 117 
+7000023643,Airfreight,DK,Japan,Thermal Blankets,11,425,DHL,SAS-Scandinavian Airlines System SK 117 
+7000023966,Airfreight,DK,Japan,Thermal Blankets,1,10,DHL,SAS-Scandinavian Airlines System SK 117 
+7000023976,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,12,DHL,SAS-Scandinavian Airlines System SK 117 
+7000024002,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,6,DHL,SAS-Scandinavian Airlines System SK 117 
+7000024003,Airfreight,DK,Japan,Pallet Shipper/Cool Box,2,68,DHL,SAS-Scandinavian Airlines System SK 117 
+7000024035,Airfreight,DK,Japan,Thermal Blankets,1,18,DHL,SAS-Scandinavian Airlines System SK 117 
+7000024232,Airfreight,DK,Japan,Thermal Blankets,1,18,DHL,SAS-Scandinavian Airlines System SK 117 
+7000024368,Airfreight,DK,Japan,Naked Pallet/Thermal Blankets,1,9,DHL,SAS-Scandinavian Airlines System SK 117 
+7000024372,Airfreight,DK,Japan,Thermal Blankets,4,119,DHL,SAS-Scandinavian Airlines System SK 117 
+7000024373,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,40,DHL,SAS-Scandinavian Airlines System SK 117 
+7000024410,Airfreight,DK,Japan,Thermal Blankets,13,502,DHL,SAS-Scandinavian Airlines System SK 117 
+7000024589,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,10,DHL,SAS-Scandinavian Airlines System SK 117 
+7000024797,Airfreight,DK,Japan,Naked Pallet/Thermal Blankets,1,14,DHL,SAS-Scandinavian Airlines System SK 117 
+7000024889,Airfreight,DK,Japan,Thermal Blankets,13,489,DHL,SAS-Scandinavian Airlines System SK 117 
+7000024890,Airfreight,DK,Japan,Thermal Blankets,13,390,DHL,SAS-Scandinavian Airlines System SK 117 
+7000024992,Airfreight,DK,Japan,Pallet Shipper/Cool Box,2,76,DHL,SAS-Scandinavian Airlines System SK 117 
+7000025006,Airfreight,DK,Japan,Thermal Blankets,13,501,DHL,SAS-Scandinavian Airlines System SK 117 
+7000025068,Airfreight,DK,Japan,Thermal Blankets,13,510,DHL,SAS-Scandinavian Airlines System SK 117 
+7000025229,Airfreight,DK,Japan,Thermal Blankets,13,499,DHL,SAS-Scandinavian Airlines System SK 117 
+7000025321,Airfreight,DK,Japan,Thermal Blankets,1,18,DHL,SAS-Scandinavian Airlines System SK 117 
+7000025481,Airfreight,DK,Japan,Thermal Blankets,12,373,DHL,SAS-Scandinavian Airlines System SK 117 
+7000025482,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,30,DHL,SAS-Scandinavian Airlines System SK 117 
+7000025892,Airfreight,DK,Japan,Thermal Blankets,13,502,DHL,SAS-Scandinavian Airlines System SK 117 
+7000025962,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,14,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026081,Airfreight,DK,Japan,Thermal Blankets,1,21,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026133,Airfreight,DK,Japan,Thermal Blankets,12,464,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026188,Airfreight,DK,Japan,Thermal Blankets,1,57,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026219,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,8,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026268,Airfreight,DK,Japan,Thermal Blankets,12,463,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026343,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,25,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026351,Airfreight,DK,Japan,Thermal Blankets,1,49,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026354,Airfreight,DK,Japan,Thermal Blankets,7,224,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026377,Airfreight,DK,Japan,Thermal Blankets,12,373,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026442,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,17,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026497,Airfreight,DK,Japan,Thermal Blankets,13,518,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026499,Airfreight,DK,Japan,Naked Pallet/Thermal Blankets,2,40,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026513,Airfreight,DK,Japan,Thermal Blankets,13,487,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026529,Airfreight,DK,Japan,Thermal Blankets,13,491,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026765,Airfreight,DK,Japan,Thermal Blankets,1,18,DHL,SAS-Scandinavian Airlines System SK 117 
+7000026867,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,26,DHL,SAS-Scandinavian Airlines System SK 117 
+7000029912,Airfreight,DK,Japan,Thermal Blankets,1,31,DHL,SAS-Scandinavian Airlines System SK 117 
+7000030038,Airfreight,DK,Japan,Naked Pallet/Thermal Blankets,1,13,DHL,SAS-Scandinavian Airlines System SK 117 
+7000030039,Airfreight,DK,Japan,Naked Pallet/Thermal Blankets,1,12,DHL,SAS-Scandinavian Airlines System SK 117 
+7000030040,Airfreight,DK,Japan,Thermal Blankets,2,99,DHL,SAS-Scandinavian Airlines System SK 117 
+7000030497,Airfreight,DK,Japan,Thermal Blankets,8,232,DHL,SAS-Scandinavian Airlines System SK 117 
+7000030541,Airfreight,DK,Japan,Pallet Shipper/Cool Box,2,85,DHL,SAS-Scandinavian Airlines System SK 117 
+7000030914,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,50,DHL,SAS-Scandinavian Airlines System SK 117 
+7000031272,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,7,DHL,SAS-Scandinavian Airlines System SK 117 
+7000032877,Airfreight,DK,Japan,Thermal Blankets,1,9,DHL,SAS-Scandinavian Airlines System SK 117 
+7000033760,Airfreight,DK,Japan,Thermal Blankets,1,21,DHL,SAS-Scandinavian Airlines System SK 117 
+7000034770,Airfreight,DK,Japan,Thermal Blankets,2,127,DHL,SAS-Scandinavian Airlines System SK 117 
+7000035317,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,9,DHL,SAS-Scandinavian Airlines System SK 117 
+7000035318,Airfreight,DK,Japan,Pallet Shipper/Cool Box,2,63,DHL,SAS-Scandinavian Airlines System SK 117 
+7000035802,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,23,DHL,SAS-Scandinavian Airlines System SK 117 
+7000035804,Airfreight,DK,Japan,Thermal Blankets,1,21,DHL,SAS-Scandinavian Airlines System SK 117 
+7000035994,Airfreight,DK,Japan,Thermal Blankets,1,19,DHL,SAS-Scandinavian Airlines System SK 117 
+7000036306,Airfreight,DK,Japan,Thermal Blankets,1,9,DHL,SAS-Scandinavian Airlines System SK 117 
+7000036554,Airfreight,DK,Japan,Thermal Blankets,6,180,DHL,SAS-Scandinavian Airlines System SK 117 
+7000037563,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,15,DHL,SAS-Scandinavian Airlines System SK 117 
+7000038078,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,49,DHL,SAS-Scandinavian Airlines System SK 117 
+7000038372,Airfreight,DK,Japan,Thermal Blankets,1,23,DHL,SAS-Scandinavian Airlines System SK 117 
+7000038463,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,7,DHL,SAS-Scandinavian Airlines System SK 117 
+7000039603,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,18,DHL,SAS-Scandinavian Airlines System SK 117 
+7000039604,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,32,DHL,SAS-Scandinavian Airlines System SK 117 
+7000039792,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,18,DHL,SAS-Scandinavian Airlines System SK 117 
+7000040033,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,7,DHL,SAS-Scandinavian Airlines System SK 117 
+7000040034,Airfreight,DK,Japan,Thermal Blankets,1,52,DHL,SAS-Scandinavian Airlines System SK 117 
+7000040368,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,24,DHL,SAS-Scandinavian Airlines System SK 117 
+7000040402,Airfreight,DK,Japan,Thermal Blankets,1,34,DHL,SAS-Scandinavian Airlines System SK 117 
+7000040627,Airfreight,DK,Japan,Thermal Blankets,3,198,DHL,SAS-Scandinavian Airlines System SK 117 
+7000040843,Airfreight,DK,Japan,Pallet Shipper/Cool Box,2,58,DHL,SAS-Scandinavian Airlines System SK 117 
+7000041023,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,23,DHL,SAS-Scandinavian Airlines System SK 117 
+7000041569,Airfreight,DK,Japan,Thermal Blankets,3,156,DHL,SAS-Scandinavian Airlines System SK 117 
+7000041686,Airfreight,DK,Japan,Pallet Shipper/Cool Box,2,80,DHL,SAS-Scandinavian Airlines System SK 117 
+7000041896,Airfreight,DK,Japan,Thermal Blankets,1,23,DHL,SAS-Scandinavian Airlines System SK 117 
+7000041998,Airfreight,DK,Japan,Thermal Blankets,5,303,DHL,SAS-Scandinavian Airlines System SK 117 
+7000042052,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,32,DHL,SAS-Scandinavian Airlines System SK 117 
+7000042053,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,32,DHL,SAS-Scandinavian Airlines System SK 117 
+7000042549,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+7000042550,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+7000042551,Airfreight,DK,Japan,Pallet Shipper/Cool box,,,DHL,SAS-Scandinavian Airlines System SK 117 
+7000042615,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,6,DHL,SAS-Scandinavian Airlines System SK 117 
+7000042616,Airfreight,DK,Japan,Pallet Shipper/Cool Box,1,45,DHL,SAS-Scandinavian Airlines System SK 117 
+7000042675,Airfreight,DK,Japan,Thermal Blankets,1,25,DHL,SAS-Scandinavian Airlines System SK 117 
+700021091A,Airfreight,DK,Japan,Thermal Blankets,,,DHL,SAS-Scandinavian Airlines System SK 117 
+0000169247,Airfreight,DK,Canada,Naked Pallet/Thermal Blankets,2,2,K+N,KLM Cargo KL 074 
+0000169658,Airfreight,DK,Canada,Thermal Blankets,4,100,K+N,KLM Cargo KL 074 
+0000170494,Airfreight,DK,Canada,Thermal Blankets,5,160,K+N,KLM Cargo KL 074 
+0000173605,Airfreight,DK,Canada,Thermal Blankets,3,81,K+N,KLM Cargo KL 074 
+0000173639,Airfreight,DK,Canada,Thermal Blankets,14,441,K+N,KLM Cargo KL 074 
+0000173706,Airfreight,DK,Canada,Thermal Blankets,2,54,K+N,KLM Cargo KL 074 
+0000173849,Airfreight,DK,Canada,Thermal Blankets,4,106,K+N,KLM Cargo KL 074 
+0000173937,Airfreight,DK,Canada,Pallet Shipper/Cool box,2,7,K+N,KLM Cargo KL 074 
+0000173990,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,3,K+N,KLM Cargo KL 074 
+0000175515,Airfreight,DK,Canada,Thermal Blankets,4,108,K+N,KLM Cargo KL 074 
+0000175516,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,2,K+N,KLM Cargo KL 074 
+0000175535,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,3,K+N,KLM Cargo KL 074 
+0000175984,Airfreight,DK,Canada,Thermal Blankets,12,363,K+N,KLM Cargo KL 074 
+0000176095,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,1,K+N,KLM Cargo KL 074 
+0000176292,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,5,K+N,KLM Cargo KL 074 
+0000176304,Airfreight,DK,Canada,Thermal Blankets,12,333,K+N,KLM Cargo KL 074 
+0000176395,Airfreight,DK,Canada,Thermal Blankets,10,296,K+N,KLM Cargo KL 074 
+0000176722,Airfreight,DK,Canada,Thermal Blankets,7,208,K+N,KLM Cargo KL 074 
+0000176723,Airfreight,DK,Canada,Thermal Blankets,9,265,K+N,KLM Cargo KL 074 
+0000177236,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,8,K+N,KLM Cargo KL 074 
+0000177606,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,3,K+N,KLM Cargo KL 074 
+0000177624,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,4,K+N,KLM Cargo KL 074 
+0000177990,Airfreight,DK,Canada,Thermal Blankets,7,212,K+N,KLM Cargo KL 074 
+0000178046,Airfreight,DK,Canada,Thermal Blankets,4,128,K+N,KLM Cargo KL 074 
+0000178206,Airfreight,DK,Canada,Thermal Blankets,11,330,K+N,KLM Cargo KL 074 
+0000178495,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,10,K+N,KLM Cargo KL 074 
+0000178957,Airfreight,DK,Canada,Thermal Blankets,3,68,K+N,KLM Cargo KL 074 
+0000178985,Airfreight,DK,Canada,Thermal Blankets,6,192,K+N,KLM Cargo KL 074 
+0000179094,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,8,K+N,KLM Cargo KL 074 
+7000023291,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,18,K+N,KLM Cargo KL 074 
+7000024974,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,11,K+N,KLM Cargo KL 074 
+7000025129,Airfreight,DK,Canada,Pallet Shipper/Cool Box,2,26,K+N,KLM Cargo KL 074 
+7000025528,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,23,K+N,KLM Cargo KL 074 
+7000025850,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,16,K+N,KLM Cargo KL 074 
+7000025918,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,33,K+N,KLM Cargo KL 074 
+7000030173,Airfreight,DK,Canada,Thermal Blankets,2,12,K+N,KLM Cargo KL 074 
+7000030285,Airfreight,DK,Canada,Thermal Blankets,2,36,K+N,KLM Cargo KL 074 
+7000030287,Airfreight,DK,Canada,Thermal Blankets,2,36,K+N,KLM Cargo KL 074 
+7000030863,Airfreight,DK,Canada,Thermal Blankets,1,18,K+N,KLM Cargo KL 074 
+7000030865,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,53,K+N,KLM Cargo KL 074 
+7000031053,Airfreight,DK,Canada,Thermal Blankets,8,292,K+N,KLM Cargo KL 074 
+7000031056,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,37,K+N,KLM Cargo KL 074 
+7000032568,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,39,K+N,KLM Cargo KL 074 
+7000032671,Airfreight,DK,Canada,Thermal Blankets,1,22,K+N,KLM Cargo KL 074 
+7000034281,Airfreight,DK,Canada,Pallet Shipper/Cool box,2,43,K+N,KLM Cargo KL 074 
+7000034486,Airfreight,DK,Canada,Thermal Blankets,3,75,K+N,KLM Cargo KL 074 
+7000035014,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,18,K+N,KLM Cargo KL 074 
+7000035029,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,37,K+N,KLM Cargo KL 074 
+7000036522,Airfreight,DK,Canada,Pallet Shipper/Cool Box,2,42,K+N,KLM Cargo KL 074 
+7000036843,Airfreight,DK,Canada,Pallet Shipper/Cool box,2,75,K+N,KLM Cargo KL 074 
+7000037482,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,11,K+N,KLM Cargo KL 074 
+7000037665,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,28,K+N,KLM Cargo KL 074 
+7000038306,Airfreight,DK,Canada,Pallet Shipper/Cool box,3,81,K+N,KLM Cargo KL 074 
+7000038392,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,16,K+N,KLM Cargo KL 074 
+700025129A,Airfreight,DK,Canada,Naked Pallet/Thermal Blankets,1,1,K+N,KLM Cargo KL 074 
+700030173A,Airfreight,DK,Canada,Thermal Blankets,2,40,K+N,KLM Cargo KL 074 
+700030173B,Airfreight,DK,Canada,Thermal Blankets,1,32,K+N,KLM Cargo KL 074 
+0000168321,Airfreight,DK,Canada,Naked Pallet/Thermal Blankets,2,2,K+N,Lufthansa Cargo AG LH 020 
+0000169066,Airfreight,DK,Canada,Thermal Blankets,4,105,K+N,Lufthansa Cargo AG LH 020 
+0000169676,Airfreight,DK,Canada,Pallet Shipper/Cool box,3,18,K+N,Lufthansa Cargo AG LH 020 
+0000176085,Airfreight,DK,Canada,Thermal Blankets,3,83,K+N,Lufthansa Cargo AG LH 020 
+0000176305,Airfreight,DK,Canada,Thermal Blankets,12,335,K+N,Lufthansa Cargo AG LH 020 
+0000176396,Airfreight,DK,Canada,Thermal Blankets,9,254,K+N,Lufthansa Cargo AG LH 020 
+0000177239,Airfreight,DK,Canada,Thermal Blankets,9,288,K+N,Lufthansa Cargo AG LH 020 
+0000177243,Airfreight,DK,Canada,Thermal Blankets,7,223,K+N,Lufthansa Cargo AG LH 020 
+0000177464,Airfreight,DK,Canada,Thermal Blankets,7,194,K+N,Lufthansa Cargo AG LH 020 
+0000178057,Airfreight,DK,Canada,Pallet Shipper/Cool box,1,7,K+N,Lufthansa Cargo AG LH 020 
+0000178148,Airfreight,DK,Canada,Thermal Blankets,10,293,K+N,Lufthansa Cargo AG LH 020 
+7000023762,Airfreight,DK,Canada,Thermal Blankets,2,61,K+N,Lufthansa Cargo AG LH 020 
+7000024125,Airfreight,DK,Canada,Thermal Blankets,1,26,K+N,Lufthansa Cargo AG LH 020 
+7000024308,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,14,K+N,Lufthansa Cargo AG LH 020 
+7000024377,Airfreight,DK,Canada,Thermal Blankets,4,125,K+N,Lufthansa Cargo AG LH 020 
+7000024513,Airfreight,DK,Canada,Naked Pallet/Thermal Blankets,1,12,K+N,Lufthansa Cargo AG LH 020 
+7000024579,Airfreight,DK,Canada,Thermal Blankets,3,81,K+N,Lufthansa Cargo AG LH 020 
+7000025315,Airfreight,DK,Canada,Thermal Blankets,5,215,K+N,Lufthansa Cargo AG LH 020 
+7000026647,Airfreight,DK,Canada,Pallet Shipper/Cool Box,1,17,K+N,Lufthansa Cargo AG LH 020 
+7000030136,Airfreight,DK,Canada,Pallet Shipper/Cool Box,2,47,K+N,Lufthansa Cargo AG LH 020 
+7000030358,Airfreight,DK,Canada,Thermal Blankets,2,57,K+N,Lufthansa Cargo AG LH 020 
+7000037900,Airfreight,DK,Canada,Pallet Shipper/Cool box,,,K+N,Lufthansa Cargo AG LH 020 
+7000037946,Airfreight,DK,Canada,Thermal Blankets,1,19,K+N,Lufthansa Cargo AG LH 020 
+7000038053,Airfreight,DK,Canada,Naked Pallet/Thermal Blankets,1,3,K+N,Lufthansa Cargo AG LH 020 
+7000038185,Airfreight,DK,Canada,Thermal Blankets,10,373,K+N,Lufthansa Cargo AG LH 020 
