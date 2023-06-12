@@ -125,34 +125,34 @@ if __name__ == "__main__":
     # This will read csv files from input folder to a DataFrame
     logging.info('Pyspark Dataframe - AWBMasterbillDetailsCBS_DF')
     AWBMasterbillDetailsCBS_DF = spark.read.format("csv") \
-        .option("header",True, delimiter=',') \
-        .schema(AWBMasterbillDetailsCBS_schema()) \
-        .load('/input/AWBMasterbillDetailsCBS.csv')
-    
+    .option("header",True) \
+    .schema(AWBMasterbillDetailsCBS_schema()) \
+    .load('input/AWBMasterbillDetailsCBS.csv')
+
     logging.info('Pyspark Dataframe - AWBShipmentDetailsCBS_DF')
     AWBShipmentDetailsCBS_DF = spark.read.format("csv") \
-        .option("header",True, delimiter=',') \
-        .schema(AWBShipmentDetailsCBS_schema()) \
-        .load('/input/AWBShipmentDetailsCBS.csv')
-    
+    .option("header",True) \
+    .schema(AWBShipmentDetailsCBS_schema()) \
+    .load('input/AWBShipmentDetailsCBS.csv')
+
     logging.info('Pyspark Dataframe - AWBShipmentProgressCBS_DF')
     AWBShipmentProgressCBS_DF = spark.read.format("csv") \
-        .option("header",True, delimiter=',') \
-        .schema(AWBShipmentProgressCBS_schema()) \
-        .load('/input/AWBShipmentProgressCBS.csv')
-    
+    .option("header",True) \
+    .schema(AWBShipmentProgressCBS_schema()) \
+    .load('input/AWBShipmentProgressCBS.csv')
+
     logging.info('Pyspark Dataframe - ShipmentEquipmentCBS_DF')
     ShipmentEquipmentCBS_DF = spark.read.format("csv") \
-        .option("header",True, delimiter=',') \
-        .schema(ShipmentEquipmentCBS_schema()) \
-        .load('/input/ShipmentEquipmentCBS.csv')
-    
+    .option("header",True) \
+    .schema(ShipmentEquipmentCBS_schema()) \
+    .load('input/ShipmentEquipmentCBS.csv')
+
     logging.info('Pyspark Dataframe - TracerReadingsCBS_DF')
     TracerReadingsCBS_DF = spark.read.format("csv") \
-        .option("header",True, delimiter=',') \
-        .schema(TracerReadingsCBS_schema()) \
-        .load('/input/TracerReadingsCBS.csv')
-    
+    .option("header",True) \
+    .schema(TracerReadingsCBS_schema()) \
+    .load('input/TracerReadingsCBS.csv')
+
     AWBMasterbillDetailsCBS_DF.printSchema()
     AWBShipmentDetailsCBS_DF.printSchema()
     AWBShipmentProgressCBS_DF.printSchema()

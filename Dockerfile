@@ -6,13 +6,9 @@ WORKDIR /opt/spark
 
 RUN pip install --upgrade pip
 
-#To COPY the remote file at working directory in container
 COPY  requirements.txt .
 COPY . ./
-
 RUN pip3 install -r requirements.txt
 
 CMD jupyter-lab --allow-root --no-browser --ip=0.0.0.0
-
-CMD ["python", "./src/AWBShipment_db_loader.py"]
 
